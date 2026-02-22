@@ -1,0 +1,74 @@
+# Unreal Engine generated directories
+Binaries/
+Intermediate/
+DerivedDataCache/
+Saved/
+.vs/
+.idea/
+
+# Build outputs
+Build/
+*.sdf
+*.opensdf
+*.suo
+*.user
+*.VC.db
+*.VC.opendb
+
+# Platform-specific
+*.pdb
+*.ilk
+
+# Perforce
+*.p4v
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# UE5 generated files
+*.generated.h
+*.gen.cpp
+
+# Shader cache
+ShaderDebugInfo/
+
+# Crash reports
+CrashReportClient/
+
+# Rider / CLion
+.idea/
+*.iml
+cmake-build-*/
+
+# Visual Studio
+.vs/
+ipch/
+*.ncb
+*.aps
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
